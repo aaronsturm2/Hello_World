@@ -3,9 +3,6 @@ Hello World
 ## Description
 Practicing Github Skills
 ### Additional Files
-Practice sentence with a footnote
-[^1]
-
-[^1]:This is the footnote.
-
+No files. **Bold Text Practice**
+#### About me
 My name is Aaron Sturm. I am a senior studying business analytics at the University of Iowa. 
